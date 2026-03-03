@@ -28,7 +28,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2026 - Desenvolvido por Kássio Adriano</p>
+        <p>&copy; <?php echo date('Y'); ?> - Desenvolvido por Kássio Adriano</p>
     </footer>
 </body>
 </html>
